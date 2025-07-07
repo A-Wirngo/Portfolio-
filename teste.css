@@ -45,9 +45,6 @@
             height: auto; 
             z-index: 10; 
         }
-        .center{
-                text-align: center;
-        }
         footer {
             text-align: center;
             padding: 10px 0;
