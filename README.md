@@ -13,7 +13,9 @@
             <a href="#contact">Contact</a>
         </nav>
     </header>
-    <img src="teste.jpg" alt="Image X" class="teste">
+    <div class="center">
+        <img src="teste.jpg" alt="Image X" class="teste">
+    </div> 
     <div class="container">
         <section id="about">
             <h2>About Me</h2>
