@@ -37,14 +37,6 @@
         section h2 {
             margin-top: 0;
         }
-        .teste{
-            position: absolute;
-            top: 10px;
-            left: 10px;
-            width: 100px;
-            height: auto; 
-            z-index: 10; 
-        }
         footer {
             text-align: center;
             padding: 10px 0;
